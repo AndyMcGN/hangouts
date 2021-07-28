@@ -1,0 +1,39 @@
+[{
+    "username": "andy",
+    "password": "hello",
+    "email": "a@d.com",
+    "age": 24,
+    "currentActivity": "none",
+    "profilePicUrl": "none",
+    "bio": "hi i'm andy"
+},
+{
+    "username": "joe",
+    "password": "hello",
+    "email": "e@d.com",
+    "age": 24,
+    "currentActivity": "none",
+    "profilePicUrl": "none",
+    "bio": "hi i'm joe"
+},
+{
+    "username": "beni",
+    "password": "hello",
+    "email": "b@d.com",
+    "age": 24,
+    "currentActivity": "none",
+    "profilePicUrl": "none",
+    "bio": "hi i'm beni"
+},
+{
+    "username": "tommy",
+    "password": "hello",
+    "email": "t@d.com",
+    "age": 24,
+    "currentActivity": "none",
+    "profilePicUrl": "none",
+    "bio": "hi i'm tommy"
+}
+
+
+]
